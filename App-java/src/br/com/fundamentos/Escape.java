@@ -12,6 +12,12 @@ public class Escape {
 		System.out.println("7 -Usando o \\ eclipse \\");
 		System.out.println("8 -Usando o \'eclipse\'");
 		
+		//comentario de uma linha
+		
+		/*
+		 * comentario de multiplas linhas
+		 */
+		
 	}
 
 }
