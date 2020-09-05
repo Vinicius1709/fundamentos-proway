@@ -21,8 +21,24 @@ public class TrabalhandoComVariaveis {
 		float numeroQuebradoPontoFloat = 1.5f;
 		System.out.println("Numero decimal com float -> " + numeroQuebradoPontoFloat);
 		
-		long numeroInteiroGrande = 25l;
-		System.out.println("Numero inteiro com long -> " + numeroInteiroGrande);
+		long populacaoUberlandia = 250000l;
+		System.out.println(populacaoUberlandia);
+		
+		long populacaoMundial = 7000000000L;
+		System.out.println(populacaoMundial);
+		
+		boolean alunoMatriculado = true;
+		boolean clienteMatriculado = false;
+		
+		//com char fica entre 'apostrofo' 'apostrofe'
+		char turmaAluno1 = 'A';
+		char tipoCliente = '2';
+		char simbolo = '@';
+		
+		//quando usamos String o valor fica entre "aspas"
+		String nomePessoa = "Vinícius";
+		
+		
 		
 	}
 
