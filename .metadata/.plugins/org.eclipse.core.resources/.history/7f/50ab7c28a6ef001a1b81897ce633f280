@@ -1,0 +1,17 @@
+package br.com.fundamentos;
+
+public class Escape {
+	
+	public static void main(String[] args) {
+		System.out.println("Usando o \"eclipse\"");
+		System.out.println("Usando o \n eclipse");
+		System.out.println("Usando o \beclipse");
+		System.out.println("Usando o \t eclipse");
+		System.out.println("Usando o \f eclipse");
+		System.out.println("Usando o \r eclipse");
+		System.out.println("Usando o \\ eclipse \\");
+		System.out.println("Usando o \'eclipse\'");
+		
+	}
+
+}
